@@ -1,0 +1,6 @@
+product_id,product_name,product_type,annual_price,coverage_amount
+1,Haftpflicht,Haftpflicht,70,5000000
+2,Rechtsschutz,Rechtsschutz,150,1000000
+3,Unfallversicherung,Unfall,120,200000
+4,Hausrat,Sach,85,50000
+5,KFZ,KFZ,300,10000000

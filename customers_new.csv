@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,birth_date,gender,city,signup_date
+1,Daniel,Smith,1951-02-06,F,New Patrick,2022-09-29
+2,Shawn,Richardson,1970-08-31,M,Kristyside,2022-06-25
+3,Andrew,Meyers,1979-10-19,F,West Brandon,2023-02-24
+4,Kristi,Greene,1994-10-26,M,Jonathanmouth,2022-04-14
+5,Pam,Lane,1951-12-27,M,South Katherine,2022-07-25
+6,Albert,Murphy,1985-09-23,F,West Gregoryberg,2025-09-29
+7,Regina,Fisher,1978-01-14,F,Webermouth,2024-03-27
+8,Damon,Moyer,1976-11-22,F,Sandersfort,2022-08-28
+9,Amber,Zuniga,1947-07-29,M,Nicholasfurt,2022-04-25
+10,Sydney,Nelson,1952-09-11,F,Emmaberg,2022-05-08
+11,Diana,Smith,1973-05-27,M,East Kathleentown,2021-11-03
+12,Alexander,Robinson,1996-12-31,F,Lindsaybury,2024-11-02
+13,Jacqueline,Keith,1947-07-08,F,Lauriemouth,2021-08-30
+14,Tina,Cox,2001-10-19,M,Lake Alexander,2025-08-26
+15,Robert,Kaiser,1999-11-25,F,Port Charleschester,2023-02-20
+16,Joseph,Harris,1956-05-15,M,Nguyenville,2021-10-15
+17,Tracey,Wilson,1949-11-11,F,Port Josephburgh,2021-11-14
+18,Micheal,Estrada,1992-09-28,M,Nicolechester,2023-05-08
+19,Robert,Nash,1975-12-10,M,Rosalesstad,2024-08-02
+20,Bobby,Alvarez,1968-06-10,F,Port Beverly,2024-01-22
+21,Patricia,Rivera,1951-02-28,M,South Michelle,2025-07-08
+22,Anthony,Melton,1984-07-02,F,Sarachester,2021-04-23
+23,John,Morales,1950-04-20,M,Doyleburgh,2020-11-28
+24,Jason,Warren,1970-12-21,M,South Rogerberg,2025-09-15
+25,Pamela,Vargas,1950-10-09,F,Mcdanielton,2025-05-21
+26,John,Johnson,2001-02-12,F,Josephfurt,2021-09-07
+27,Elizabeth,Robertson,1998-08-12,M,New Paul,2022-11-21
+28,Jessica,Watkins,1983-01-17,F,Christinamouth,2024-12-02
+29,Erica,Sweeney,1976-06-17,F,New Lorimouth,2025-10-29
+30,James,Sanders,1985-09-27,F,Murphyton,2021-01-02
+31,Scott,Terry,1956-08-31,M,South Isabelberg,2023-02-20
+32,Tara,Baker,1950-11-04,M,South Kenneth,2023-07-15
+33,Travis,Clayton,1988-11-22,M,Deborahside,2023-10-18
+34,Luke,Perez,1981-07-25,M,New Jason,2024-05-08
+35,Gregory,Key,1950-08-29,F,Fryeberg,2020-11-24
+36,Shannon,Harris,1995-04-17,M,Rickyshire,2021-07-28
+37,Edward,Petersen,1985-02-23,M,Jasonberg,2021-03-23
+38,Michael,Smith,1985-04-02,F,New Joseph,2021-07-20
+39,Glenn,Solis,1994-04-06,F,Mcdanielland,2024-09-21
+40,Kyle,Nguyen,1958-09-19,F,Amystad,2022-11-06
+41,Charles,Beasley,1976-05-03,F,South Lauraton,2024-11-10
+42,Melissa,Wall,1970-12-26,M,West Christopherhaven,2020-12-04
+43,Pamela,Miles,1988-06-24,F,Thompsonmouth,2023-04-02
+44,Diane,Curtis,1958-10-30,M,Lake Craigview,2022-05-28
+45,Jason,Camacho,1987-10-03,F,Port Ricardochester,2025-06-30
+46,Julie,Allen,2004-07-04,F,West Samantha,2021-11-16
+47,Madison,Ferguson,2003-03-25,F,Cruzshire,2022-07-07
+48,Howard,Shaffer,2005-11-09,F,East Ashleychester,2023-04-20
+49,Aaron,Smith,1982-09-17,F,West Michael,2025-11-19
+50,Wendy,Maldonado,1963-05-24,F,Port Bianca,2024-07-27
+51,Edward,Hahn,1962-09-07,M,West Robertstad,2021-10-18
+52,Michael,Barnett,1953-07-07,M,Christinetown,2024-08-02
+53,Katherine,Scott,1948-11-11,M,East Daniellechester,2020-12-18
+54,David,Davies,1954-09-09,M,Port Christinafort,2024-02-20
+55,Connie,Mendoza,1975-11-21,M,Justinport,2024-11-15
+56,Carol,Tate,1976-01-08,M,West Alicia,2024-11-29
+57,Kevin,Wiggins,1975-06-30,F,Tonitown,2023-02-16
+58,Jennifer,Woodward,1954-06-27,F,Thomasland,2025-10-07
+59,Daniel,Schmidt,1975-11-26,F,Hicksland,2021-04-25
+60,Jennifer,Brown,1947-10-20,M,South Megan,2023-06-13
+61,Samantha,Lynch,1964-05-22,M,West Eddie,2023-10-18
+62,Kathy,Dixon,1987-08-01,M,Colinmouth,2022-09-18
+63,Cathy,Ray,1974-05-08,F,Gravesshire,2024-06-25
+64,Diane,Mcgee,1972-04-29,F,Smithview,2024-11-08
+65,Mary,Allen,1962-11-22,M,West Kathleenbury,2025-01-25
+66,Heidi,Thompson,1984-11-14,M,Port Jeremyport,2021-04-01
+67,Jamie,Coleman,1988-01-13,F,Foxchester,2025-04-02
+68,Natasha,Goodman,1992-05-04,M,Harveyville,2024-10-21
+69,Richard,Evans,2001-02-20,M,South Trevorfort,2021-09-18
+70,Lisa,Kim,1967-08-21,M,Lambertport,2023-10-16
+71,Kyle,Cole,1989-09-01,M,Jacksonmouth,2024-10-14
+72,James,Jennings,1954-05-15,F,West Melissa,2022-10-19
+73,Daniel,Taylor,1966-08-11,M,New Michaelport,2022-03-25
+74,Debra,Dillon,1978-04-05,M,Lake Rebeccafurt,2023-04-10
+75,Matthew,Fields,1975-01-24,F,Nelsonstad,2023-10-04
+76,Michael,Wallace,1958-08-08,M,East Bruceville,2022-03-29
+77,Philip,Spears,1945-12-25,M,New Aaron,2025-04-29
+78,Stephen,Davis,1949-05-15,M,West Joseph,2021-07-23
+79,David,Wolf,1967-03-07,F,Danielmouth,2024-10-14
+80,Tracy,Grant,1968-03-06,M,South David,2021-03-12
+81,Jason,Vasquez,1998-01-05,M,Smallland,2021-06-13
+82,Crystal,Carter,1955-10-29,M,Lake Donaldfurt,2024-06-15
+83,Mary,Calderon,1999-12-21,F,New Alexland,2022-05-23
+84,Russell,Ward,1947-04-18,F,Carlostown,2021-04-30
+85,Tara,Thompson,1953-01-16,M,East Mary,2022-08-28
+86,Nancy,Mitchell,1948-05-08,M,Lake Michael,2025-03-12
+87,Brian,Chen,1989-05-30,M,Anthonyton,2021-08-25
+88,Mark,Alexander,1968-03-17,M,Mckinneyshire,2021-08-25
+89,Gerald,Mccullough,1991-09-23,F,Manuelburgh,2022-02-26
+90,Sonya,Hardy,2005-07-09,F,Smithfort,2020-12-10
+91,Scott,Griffin,1955-10-20,M,Stewartberg,2025-03-10
+92,Kevin,Kirk,1963-04-04,M,Port Andrewland,2023-08-09
+93,Larry,Reed,1990-02-05,M,West Kimberly,2021-02-09
+94,David,Mccarthy,1994-08-03,M,Aliciastad,2021-04-22
+95,Amy,Lee,1963-10-16,F,East Carolside,2020-12-02
+96,Nathan,Duncan,1958-09-28,M,Tiffanymouth,2020-12-09
+97,Darren,Ford,1957-06-05,F,Jonesland,2024-09-29
+98,Jessica,Williams,1967-02-14,F,South Patricia,2021-01-23
+99,Tara,Williams,2005-02-15,F,South Daniel,2023-02-25
+100,Marc,Burgess,1957-08-24,F,Rodriguezton,2025-07-24
+101,Brandy,Villarreal,2006-12-09,F,Deckerchester,2023-12-09
+102,Patricia,Bryant,1966-09-06,M,Marktown,2022-03-06
+103,Shawn,Alexander,1988-04-09,F,Michaelton,2025-08-24
+104,Cynthia,Patton,1970-09-17,F,Hannahberg,2024-10-10
+105,Deborah,Phillips,1966-06-21,M,Lake Michelleport,2024-11-12
+106,Daniel,Christensen,1959-05-26,F,Randallside,2022-05-14
+107,Thomas,Miller,1970-10-07,F,Evansfurt,2025-03-02
+108,Carmen,Reed,1952-12-07,F,Port Kevinchester,2024-06-27
+109,Susan,Lewis,1988-04-14,M,Allenton,2022-11-06
+110,John,Foster,1959-12-02,M,Port Karenport,2021-02-28
+111,Don,Walton,1962-01-17,M,Mossmouth,2024-01-26
+112,Ethan,Brown,1947-08-13,F,Bradfordchester,2021-01-16
+113,Patricia,Wall,1969-11-09,F,Pacestad,2023-10-01
+114,Elizabeth,Carter,2002-04-03,M,East Rebekah,2021-09-21
+115,Christina,Mcmillan,1953-10-31,F,East Brandy,2025-09-21
+116,Bobby,Ortiz,2000-04-16,M,Gracefort,2022-11-03
+117,Joseph,Brown,1949-02-21,F,Burkemouth,2023-10-12
+118,Michael,Owens,1986-04-13,M,North Jasonland,2022-06-13
+119,Nicole,Lewis,1951-09-17,M,North Timothy,2021-12-08
+120,Bryan,Downs,1975-01-14,M,South Kaylachester,2020-12-14
+121,Frank,Mueller,1975-02-23,F,Austinville,2025-10-25
+122,Veronica,Oconnor,1990-12-15,F,South Jacob,2021-06-25
+123,John,Williams,1975-04-01,F,Robinsonport,2022-07-08
+124,Andrea,Chavez,1958-06-21,F,Bairdport,2022-04-10
+125,Robin,Thompson,2000-10-29,M,West Robert,2022-11-20
+126,Tony,Schaefer,1952-11-16,M,Lake Edward,2024-03-30
+127,Cindy,Johnson,1959-04-12,F,Tylerton,2023-01-07
+128,Jonathan,King,1997-03-24,M,Millertown,2021-01-07
+129,Patrick,Barton,1973-09-27,M,Wigginsbury,2021-10-18
+130,Thomas,Caldwell,1954-01-13,F,Jeffreyville,2021-10-13
+131,Karen,Cameron,1989-12-18,F,Port Debrashire,2021-09-15
+132,Sheila,Hardy,1973-11-12,F,Gutierrezmouth,2022-09-08
+133,Cody,Russell,1979-04-05,M,Lake Elizabethchester,2022-01-28
+134,Ricky,Ortiz,1967-09-22,M,North Barbara,2022-07-31
+135,Danielle,Owens,1981-11-01,F,New Aimeemouth,2025-02-02
+136,Jennifer,Hebert,1984-04-18,F,Snydertown,2024-12-29
+137,Dana,Mendez,1979-10-18,M,Williamsbury,2024-08-19
+138,Brian,Rojas,1978-04-10,F,Cookmouth,2024-06-02
+139,Ronnie,Schmidt,2002-03-20,F,Harringtontown,2021-12-25
+140,Emily,Miller,2003-12-01,M,Lake Brandon,2025-10-02
+141,Ruben,Barnes,1952-06-30,F,Lake Christianshire,2024-09-13
+142,Lisa,Carr,1982-05-11,F,West Briannaville,2025-01-17
+143,Breanna,Holmes,1960-06-02,M,New Janetshire,2023-05-05
+144,Joe,Smith,1978-06-20,M,North Kelly,2023-07-03
+145,Sean,Lopez,1975-01-31,F,North Brianchester,2025-09-03
+146,Tony,Kennedy,1955-05-18,M,New Jessica,2023-10-05
+147,Timothy,Floyd,1993-05-14,M,West Jessicaport,2023-08-28
+148,Jillian,Lara,1992-09-03,M,Port Blake,2025-05-20
+149,Jenna,Walls,1995-10-05,F,Port Steven,2022-06-25
+150,Mary,Copeland,1972-05-19,M,Baileyborough,2025-04-30
+151,Carl,Foster,1957-02-19,F,North Samantha,2021-06-02
+152,James,Schmitt,1998-03-14,M,Melissaport,2025-08-13
+153,Kimberly,Hernandez,1962-04-01,M,Port Anthonyhaven,2021-12-18
+154,Joshua,Espinoza,1993-11-03,M,North Jeffreyport,2024-06-28
+155,Melinda,Jackson,1957-02-11,F,South Sarahburgh,2024-11-22
+156,Alexis,Sanford,1952-08-22,M,Margaretview,2024-02-26
+157,Lauren,Moore,2004-05-03,M,Port Rayshire,2021-07-10
+158,Jennifer,Rodriguez,1984-04-28,F,Melissamouth,2025-07-29
+159,Nicole,Stewart,1994-08-09,M,West Codyshire,2024-11-20
+160,Shannon,Allen,1992-09-07,F,Lake Timothy,2024-02-15
+161,Lynn,Williams,1960-04-25,M,Walkerberg,2022-11-14
+162,Kenneth,Miller,1988-10-09,M,Smithton,2021-12-14
+163,Sarah,Hodge,1949-04-04,M,Williamsfurt,2023-06-28
+164,Chelsea,Shea,1974-06-24,M,Thompsonland,2023-04-13
+165,Kristopher,Hoffman,1995-02-21,M,Nancychester,2024-05-05
+166,Paul,Fox,1956-06-06,M,Josephville,2023-08-21
+167,Denise,Collins,1952-07-09,F,Port Lauramouth,2024-01-22
+168,Tara,Le,2007-02-27,F,Smithside,2022-08-22
+169,Janet,Patterson,1969-07-03,F,Port Mirandafort,2022-12-30
+170,Jon,Neal,1968-02-04,M,Amyview,2025-01-25
+171,Danielle,Fox,1992-11-09,M,Dianamouth,2025-07-14
+172,Samantha,Hamilton,1969-04-27,M,North Christopher,2022-11-10
+173,Tracey,Hansen,1981-05-09,M,Graymouth,2023-06-11
+174,Margaret,Colon,1999-06-13,M,North Timothy,2023-01-21
+175,Andrew,Hartman,2007-11-18,M,Ramirezville,2021-05-03
+176,William,Ramos,1985-01-14,F,East Shannon,2024-12-18
+177,Nathan,Olson,1962-10-25,M,West Matthewtown,2025-01-18
+178,Jack,Chase,1976-06-19,M,Sweeneyside,2020-12-06
+179,Ian,Smith,1948-04-08,M,Johnton,2023-12-16
+180,Mark,Daniels,1981-08-01,M,Robinsonton,2021-01-10
+181,Gabriela,Acosta,1977-07-13,F,New Amandatown,2021-09-28
+182,John,Wagner,1952-11-06,M,Joshuaport,2025-10-11
+183,Martin,Villanueva,1995-06-17,M,Gonzalesmouth,2024-07-29
+184,Abigail,Pratt,2004-06-04,F,Davidland,2021-12-08
+185,Justin,Peterson,1985-12-06,M,Williamsbury,2024-07-13
+186,Stephanie,Fuentes,1959-04-14,M,New Charlesfurt,2025-06-19
+187,Kristin,Gibson,1948-11-10,M,Juliaton,2024-12-06
+188,Christopher,Hamilton,2003-06-10,F,Thompsonberg,2024-03-14
+189,Erik,Sawyer,1978-05-17,M,Leonbury,2022-11-28
+190,Jerry,Long,1945-02-25,M,Lewiston,2023-02-04
+191,Nicole,Murphy,1966-01-15,M,New Jennifer,2023-10-24
+192,Victoria,Stanley,1964-07-10,F,Tonymouth,2023-01-02
+193,Kimberly,Moore,1945-06-24,M,East Lauraborough,2021-05-29
+194,Jessica,Harrison,1962-07-05,F,Tateville,2021-05-16
+195,Joe,Jackson,1994-08-13,M,East Maria,2024-09-04
+196,Emily,Melton,1991-04-21,M,South Matthewside,2022-12-09
+197,John,Clark,1955-04-15,F,Lake Donald,2021-02-04
+198,Sophia,Ortiz,1987-04-13,F,Port Jaredstad,2022-08-25
+199,Glenn,Harris,1972-04-27,F,West Allisonmouth,2023-04-22
+200,Mark,Mcguire,1990-08-15,F,Marytown,2024-02-28
